@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "vclip",
+  "version": "1.0",
+  "name": "VClip",
+  "description": "Client-side .vclip command mod",
+  "authors": ["LazyUser"],
+  "entrypoints": {
+    "client": ["com.example.vclip.VClipMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "fabric-api": "*"
+  }
+}
